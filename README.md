@@ -1,6 +1,6 @@
 # Hi there!
 
-My name is Matheus, and I'm a passionate Fullstack JavaScript Developer focused on creating efficient, scalable web applications. With experience in both frontend and backend development, I love transforming complex problems into elegant solutions using modern technologies. My mission is to write clean, maintainable code while continuously learning and improving.
+My name is Matheus, and I'm a passionate Full-stack Web Developer focused on creating efficient, scalable web applications. With experience in both frontend and backend development, I love transforming complex problems into elegant solutions using modern technologies. My mission is to write clean, maintainable code while continuously learning and improving.
 
 ---
 
